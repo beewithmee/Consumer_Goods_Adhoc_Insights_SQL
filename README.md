@@ -1,6 +1,6 @@
 # Consumer_Goods_Adhoc_Insights_SQL
 
-Analyze the given database and provide insights to stakeholders.
+Aim: Analyze the given database and provide insights to stakeholders.
 
 Hello everyone, "Ever juggled with more than a million records? I have! Let's chat about the adventures in handling a colossal sea of data".
 
